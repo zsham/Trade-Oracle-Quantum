@@ -2,7 +2,7 @@
 export const COUNTRIES = [
   "USA", "China", "Germany", "Japan", "South Korea", "Singapore", 
   "Netherlands", "United Kingdom", "France", "UAE", "Brazil", "India", 
-  "Australia", "Canada", "Mexico", "Vietnam", "Taiwan"
+  "Australia", "Canada", "Mexico", "Vietnam", "Taiwan", "Malaysia"
 ];
 
 export const COMMODITIES = [

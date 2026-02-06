@@ -42,7 +42,8 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({ events }) => {
     "Canada": { x: 20, y: 20 },
     "Mexico": { x: 18, y: 45 },
     "Vietnam": { x: 79, y: 55 },
-    "Taiwan": { x: 82, y: 45 }
+    "Taiwan": { x: 82, y: 45 },
+    "Malaysia": { x: 76, y: 61 }
   };
 
   return (
